@@ -1,0 +1,259 @@
+*{
+    padding:0;
+    margin: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Cochin, Georgia, Times, 'Times New Roman', serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.section-1{
+    width: 100%;
+    height: auto;
+}
+.img-1{
+    width: inherit;
+    position: absolute;
+    
+}
+.t-icon{
+    position: fixed;
+    float: left;
+    width: 154px;
+   height: 111px;
+}
+.model-3{
+    position: absolute;
+    margin-top: 198px;
+    margin-left: 42%;
+    font-size: 38px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    margin-left: 30%;
+    margin-top: 30px;
+    
+   
+}
+.links{
+    margin-right: 30px;
+    size: 50px;
+    text-decoration: none;
+    font-size: 17px;
+    color:black;
+
+}
+.about{
+    font-size:21px;
+    margin-left: 63px;
+    text-decoration: none;
+    color:black;
+
+}
+.button{
+    border:none;
+        margin-right: 22px;
+        color:black;
+        text-decoration: none;
+        position: absolute;
+}
+.links:hover{
+    background-color:#a5c1d8;
+    padding: 2px;
+    border-radius: 8px; 
+}
+.about:hover{
+    background-color:#a5c1d8;
+    padding: 2px;
+    border-radius: 8px; 
+}
+.section-2{
+    width: 100%;
+    height: 300px;
+}
+.img-2{
+    width: 100%;
+    height: auto;
+    margin-top: 49%;
+}
+.order{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    padding: 80px 468px;
+    margin-top: 660px;
+}
+.order-button{
+ border-radius: 20px;
+ width: 278px;
+ height: 48px;
+ margin-left: 10px;
+ background-color: black;
+ color: white;
+ 
+}
+.inventory-button{
+    width: 278px;
+    height: 48px;
+    border-radius: 20px;
+    background-color:#dadbd8;
+}
+.model-Y{
+    position: absolute;
+    margin-top: -57%;
+    margin-left: 42%;
+    font-size: 38px;
+}
+
+.container{
+    width: 100%;
+    height: 300vh;
+}
+.section-3{
+    width: 100%;
+    height: 300px;
+}
+
+.img-2{
+    width: 100%;
+    height: auto;
+    margin-top: 49%;
+    
+}
+
+.img-3{
+    width: 100%;
+    height: auto;
+    margin-top: 112%;   
+}
+.img-4{
+    width: 100%;
+    height: auto;
+    margin-top: 165%;   
+}
+.img-5{
+    width: 100%;
+    height: auto;
+    margin-top: 207%;   
+}
+.img-6{
+    width: 100%;
+    height: auto;
+    margin-top: 249%; 
+}
+.order-2{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    padding: 80px 468px;
+    margin-top: -24%;
+}
+.order-3{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    padding: 80px 468px;
+    margin-top: -30%;
+}
+.order-4{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    padding: 80px 468px;
+    margin-top: -151%;
+}
+.order-5{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    padding: 80px 468px;
+    margin-top: -20%;
+}
+.order-6{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    padding: 80px 468px;
+    margin-top: -20%;
+}
+.section-4{
+    width: 100%;
+    height: 300px;
+}
+.order-4{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    padding: 80px 468px;
+    margin-top: -19%;
+}
+.model-x{
+    position: absolute;
+    margin-top: -48%;
+    margin-left: 42%;
+    font-size: 38px;
+  
+}
+.model-s{
+    position: absolute;
+    margin-top: -59%;
+    margin-left: 42%;
+    font-size: 38px;
+}
+.section-5{
+    width: 100%;
+    height: 300px;
+}
+.solar-panels{
+    position: absolute;
+    margin-top: -49%;
+    margin-left: 36%;
+    font-size: 38px;
+}
+.section-6{
+    width: 100%;
+    height: 300px;
+}
+.solar-Roof{
+    position: absolute;
+    margin-top: -45%;
+    margin-left: 38%;
+    font-size: 38px;
+}
+.p1{
+    font-size: 22px;
+    margin-top: 17%;
+    margin-left: 35%;
+    position: absolute;
+}
+.p2{
+    font-size: 22px;
+    margin-top: -54%;
+    margin-left: 35%;
+    position: absolute;
+}
+.p3{
+    font-size: 22px;
+    margin-top: -55%;
+    margin-left: 35%;
+    position: absolute;
+}
+.p4{
+    font-size: 22px;
+    margin-top: -45%;
+    margin-left: 35%;
+    position: absolute;
+}
+.p5{
+    font-size: 22px;
+    margin-top: -41%;
+    margin-left: 34%;
+    position: absolute;
+}
+.p6{
+    font-size: 22px;
+    margin-top: -45%;
+    margin-left: 34%;
+    position: absolute;
+}
